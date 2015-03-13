@@ -1,0 +1,9 @@
+* Org-mode cheatsheet
+  About sparse trees — http://orgmode.org/guide/Sparse-trees.html
+
+  C-c / — generate sparse tree (the highlights disappear by pressing C-c C-c. )
+  C-c C-q — set tags
+  C-u C-u C-u Tab — open all
+  M-Left/Right/Up/Down — moving items
+  C-c C-t — rotate todo state
+  C-c . (org-time-stamp) — prompt for a date and insert a corresponding timestamp.
